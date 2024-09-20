@@ -1,0 +1,26 @@
+Error 1: Line 1 <html> tag can be deleted
+Error 2: Line 1 add <!DOCTYPE html> 
+Error 3: Line 4 change language to lang
+Error 4: Line 7 missing closing </head> tag
+Error 5: Line 9 missing closing </h1> tag
+Error 6: Line 11 missing opening <p> tag
+Error 7: Line 19 should have an opening tag of <li>
+Error 8: Line 24 should be closing </ol> tag
+Error 9: Line 26 missing closing </p> tag
+Error 10: Line 28 Image.png should be changed to image.jpg
+Error 11: Line 28 missing the alt attribute
+Error 12: Line 30 should have a closing </a> tag instead of an </img> tag 
+Error 13: Line 39 closing tag is missing the / should be </td>
+Error 14: Line 45 missing a closing </table> tag
+Error 15: Line 46 source should be src
+Error 16: Line 46 error.jpeg should be error.jpg
+Error 17: Line 48 should have closing and opening paragraph tags <p></p>
+Error 18: Line 48 should have closing and opening strike tags <s></s> nested in the paragraph tags
+Error 19: Line 50 is called wrong it should be <p style="background-color:lightgray;">Text</p>
+Error 20: Line 54 did not close out comment with  -->
+Error 21: Line 56 is missing a closing </a> tag
+Error 22: Line 58 should be title tags <u></u> instead of <em></em> tags
+Error 23: Line 58 the now changed <u></u> tags should be nested inside of the paragraph tags
+Error 24: Line 61 the opening and closing <li></li> tags should become <dt></dt> tags
+Error 25: Line 62 the opening and closing <li></li> tags should become <dd></dd> tags
+Error 26: Line 64 should have a closing </h2> tag

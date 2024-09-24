@@ -1,0 +1,38 @@
+p {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 150%
+    /* font-style: italic;
+    font-weight:900; */
+}
+
+table{
+    background-color: purple;
+    border-style: solid;
+    border-color: black;
+
+}
+
+td {
+    border-style: solid;
+    border-color: black;    
+}
+
+div{
+    color: pink;
+}
+
+.basics {
+    font-weight:900;
+}
+
+#item {
+    font-weight:600;
+    color: red;
+}
+
+a:hover{
+    border: purple;
+    border-style: solid;
+    border-width: 3px;
+}

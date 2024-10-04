@@ -1,0 +1,20 @@
+
+
+.image img{
+    width: 100%;
+}
+
+/* .overlay1, img{
+    width: 2px;
+} */
+
+
+
+.overlay1 img {
+    position: absolute;
+    top: 10px; /* Adjust these values as needed */
+    left: 10px; /* Adjust these values as needed */
+    width: auto; /* Set appropriate width */
+    height: 50px; /* Adjust height as needed */
+    /* Or use width: 100%; height: auto; to make it responsive */
+}

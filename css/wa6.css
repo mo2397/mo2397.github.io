@@ -1,17 +1,19 @@
-
-
-.image img{
+.background, img{
     width: 100%;
+    height: auto;
 }
 
+.overlay1{  
+    position: absolute; 
+    top: 40em;
+    width: 60em;
+    left: 15em; 
+}
 
-
-
-.overlay1 img {
+.overlay2{
     position: absolute;
-    height: 170px;
-    width: 350;
-    top: 10px;
-    left: 100px; 
+    width: 15em;
+    top: 0.5em;
+    left: 75em;
 }
 

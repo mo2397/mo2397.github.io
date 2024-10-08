@@ -1,11 +1,7 @@
 .image {
-    
     position: relative;
-    background: url("chiefsField.jpeg") no-repeat bottom;
-
 }
 .image, img {
-    /* position: relative; */
     width: 100%;
     height: auto;
 }

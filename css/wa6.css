@@ -1,21 +1,20 @@
-.image {
-    position: relative;
-}
+
 .image, img {
+    position: relative;
     width: 100%;
     height: auto;
 }
 .overlay1{  
     position: absolute; 
-    top: 40em;
-    width: 60em;
-    left: 15em; 
+    width: 50%;
+    bottom: 0;
+    left: 25%;
 }
 
 .overlay2{
     position: absolute;
-    width: 15em;
-    top: 0.5em;
-    left: 75em;
+    width: 17%;
+    top: 0;
+    left: 85%;
 }
 

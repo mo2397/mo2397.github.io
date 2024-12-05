@@ -1,0 +1,29 @@
+{
+    "projects": [
+        {
+            "name": "Fly Me to the Moon",
+            "subdomain": "fly_me_to_the_moon",
+            "category": ["tangible", "networked", "publication", "participatory"],
+            "subtitle": "Short film made by me",
+            "abstract": "A short animation about flowers growing in spring",
+            "description": "",
+            "mainImg": "../img/saturn.png"
+        },
+        {
+            "name": "Spring Short Film",
+            "subdomain": "spring_short_film",
+            "category": ["digital", "interactive","toolkit"],
+            "subtitle": "Website with interactive features",
+            "abstract": "An interactive website built for a community project.",
+            "mainImg": "../img/mainImgShortFilm.png"
+        },
+        {
+            "name": "Bar Game",
+            "subdomain": "bar_game",
+            "category": ["digital", "mobile"],
+            "subtitle": "App designed for fitness tracking",
+            "abstract": "A mobile app for tracking workouts and nutrition.",
+            "mainImg": "../img/barMainImg.png"
+        }
+    ]
+}

@@ -7,7 +7,17 @@
             "subtitle": "Short film made by me",
             "abstract": "A short animation about flowers growing in spring",
             "description": "",
-            "mainImg": "../img/saturn.png"
+            "mainImg": "../img/saturn.png",
+            "images":[ 
+                {"src": "./img/fly_me_to_the_moon_1.png", "alt": "Fly Me to the Moon main image"},
+                {"src": "./img/fly_me_to_the_moon_2.png", "alt": "2 Fly Me to the Moon main image"},
+                {"src": "./img/fly_me_to_the_moon_3.png", "alt": "3 Fly Me to the Moon main image"},
+                {"src": "./img/fly_me_to_the_moon_4.png", "alt": "2 Fly Me to the Moon main image"},
+                {"src": "./img/fly_me_to_the_moon_5.png", "alt": "2 Fly Me to the Moon main image"},
+                {"src": "./img/fly_me_to_the_moon_6.png", "alt": "2 Fly Me to the Moon main image"},
+                {"src": "./img/fly_me_to_the_moon_7.png", "alt": "2 Fly Me to the Moon main image"}
+                
+            ]
         },
         {
             "name": "Spring Short Film",

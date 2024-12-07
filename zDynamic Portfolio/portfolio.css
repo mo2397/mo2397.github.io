@@ -34,3 +34,40 @@
 #buttons button{
     margin: 10px;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#slideshow {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.thumb-bar {
+    width: 1%; 
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.thumb-bar img {
+    flex: 1;
+    object-fit: cover;
+    /* width: 100%; */
+    height: auto;
+    /* float: left; */
+    /* cursor: pointer; */
+    border: 2px solid black;
+  }
+
+.displayed-img {
+    width: 80%;
+    
+    border: 2px solid black;
+}

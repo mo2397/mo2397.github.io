@@ -39,7 +39,13 @@
             "category": ["digital", "mobile"],
             "subtitle": "App designed for fitness tracking",
             "abstract": "A mobile app for tracking workouts and nutrition.",
-            "mainImg": "../img/barMainImg.png"
+            "mainImg": "../img/barMainImg.png",
+            "images":[ 
+                {"src": "./img/bargame_1.png", "alt": "Fly Me to the Moon main image"},
+                {"src": "./img/bargame_2.png", "alt": "2 Fly Me to the Moon main image"},
+                {"src": "./img/bargame_3.png", "alt": "3 Fly Me to the Moon main image"},
+                {"src": "./img/bargame_4.png", "alt": "3 Fly Me to the Moon main image"}
+            ]
         }
     ]
 }

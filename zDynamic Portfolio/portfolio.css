@@ -1,16 +1,20 @@
 body {
     font-family: 'Times New Roman', serif;
+    
 }
 
 #projects{
     display: flex;
     flex-direction: column;
     margin: 10vh 20vw;
+    
+
 }
 
 #projects a{
     text-decoration: none;
     color: black;
+    
 }
 
 .project:hover{
@@ -25,6 +29,7 @@ body {
     margin-top: 10px;
     /* padding: 15px 20px; */
     padding: 70px 90px;
+    background-color: rgba(255, 240, 245, 0.392);
  
 }
 
@@ -159,3 +164,12 @@ body {
     background-color: white;
 }
 
+.name {
+    font-size: 3em;
+    width: 90%;
+    justify-content: left;
+    text-align: left;
+    /* margin-left: 0;
+    padding-left: 10px; */ */
+
+}

@@ -62,6 +62,9 @@ function buildPage(project){
     // newImage.setAttribute('alt', xxx);
     // thumbBar.appendChild(newImage);
 
+    // ADDING DESCRIPTION BELOW SLIDESHOW
+    console.log(project.description);
+    document.getElementById("description").innerHTML += `<h1>${project.description}</h1>`;
     
 }
 

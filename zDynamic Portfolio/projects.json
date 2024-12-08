@@ -15,8 +15,7 @@
                 {"src": "./img/fly_me_to_the_moon_4.png", "alt": "2 Fly Me to the Moon main image"},
                 {"src": "./img/fly_me_to_the_moon_5.png", "alt": "2 Fly Me to the Moon main image"},
                 {"src": "./img/fly_me_to_the_moon_6.png", "alt": "2 Fly Me to the Moon main image"},
-                {"src": "./img/fly_me_to_the_moon_7.png", "alt": "2 Fly Me to the Moon main image"}
-                
+                {"src": "./img/fly_me_to_the_moon_7.png", "alt": "2 Fly Me to the Moon main image"} 
             ]
         },
         {
@@ -25,7 +24,14 @@
             "category": ["digital", "interactive","toolkit"],
             "subtitle": "Website with interactive features",
             "abstract": "An interactive website built for a community project.",
-            "mainImg": "../img/mainImgShortFilm.png"
+            "description": "ldlkjfalkdjf alkdjf lakdjflakdjflaskdjfalkdjflaskjdflakdjflakjdf klajfdlak djflkja dflkjadf lkajdf lkajdshfoiwejf lskdjf lkadjf laksdjfoidufjo lskdjflisdufowiejkfsldkfjosidf osidfj lksdjflskdj f",
+            "mainImg": "../img/mainImgShortFilm.png",
+            "images":[ 
+                {"src": "./img/short_film_1.png", "alt": "Fly Me to the Moon main image"},
+                {"src": "./img/short_film_2.png", "alt": "2 Fly Me to the Moon main image"},
+                {"src": "./img/short_film_3.png", "alt": "3 Fly Me to the Moon main image"},
+                {"src": "./img/short_film_4.png", "alt": "2 Fly Me to the Moon main image"}
+            ]
         },
         {
             "name": "Bar Game",

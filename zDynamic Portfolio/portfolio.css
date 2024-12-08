@@ -36,10 +36,15 @@ body {
 
 #buttons {
     display: flex;
+    flex-direction: row;
+    margin-top: 4%;
     justify-content: center;
 }
 
 #buttons button{
+    background-color: lavender;
+    border-width: 0.001px;
+    /* color: darkcyan; */
     margin: 10px;
 }
 
@@ -62,28 +67,37 @@ body {
     flex-direction: row; 
     justify-content: center;
     gap: 10px;
-    width: 40%;
+    width: 100%;
     margin-top: 10px;
     
     
 }
 
-.thumb-bar img {
-
-    width: 11.6%;
+.thumb-bar li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style-type: none;
+    /* width: 11.6%; */
     height: auto;
-    /* flex: 1; */
-    /* object-fit: cover; */
-    /* max-width: 100%; */
+    flex: 1;
+    object-fit: cover; 
+    max-width: 100%;
     
-    /* float: left; */
+    /* float: left;
     /* cursor:
      pointer; */
     border: 2px solid black;
+    padding: 1%;
   }
 
+.thumb-bar img {
+    width: 100%;
+    height: auto;
+}
+
 .displayed-img {
-    width: 40%;
+    width: 47%;
     height: auto;
     border: 2px solid black;
 }
@@ -113,7 +127,7 @@ body {
     
 }
 
-ul {
+.nav {
     list-style-type: none;
     display: flex;
     /* background-color: rgba(128, 128, 128, 0.54); */
@@ -124,7 +138,7 @@ ul {
     width: 90%;
 }
 
-li{
+.nav li{
     padding: 15px;
     display: inline;
     float: right;
@@ -132,7 +146,7 @@ li{
 }
 
 
-li a{
+.nav a{
     text-decoration: none; 
     /* color: white; */
     color: black;
@@ -140,7 +154,7 @@ li a{
 
 }
 
-li a:hover{
+.nav a:hover{
     /* background-color: darkslategray; */
     background-color: white;
 }

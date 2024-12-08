@@ -44,15 +44,18 @@ function buildPage(project){
     /* Looping through images */
     for (let i = 0; i < project.images.length; i++){
         const currentPic = project.images[i];
+        const newLi = document.createElement('li');
         const newImage = document.createElement('img');
         newImage.setAttribute('src', currentPic.src);
         newImage.setAttribute('alt', currentPic.alt);
-        thumbBar.appendChild(newImage);
+        newLi.appendChild(newImage);
+        thumbBar.appendChild(newLi);
 
         newImage.addEventListener('click', function(e) {
             // alert(displayedImage.alt);
             displayedImage.src = e.target.src;
             displayedImage.alt = e.target.alt;
+            displayedImage.width="10%";
         });
     }
 

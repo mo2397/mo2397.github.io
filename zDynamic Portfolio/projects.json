@@ -4,9 +4,9 @@
             "name": "Fly Me to the Moon",
             "subdomain": "fly_me_to_the_moon",
             "category": ["art", "photography","drawing","Digital Design"],
-            "subtitle": "Space inspired photobook",
-            "abstract": "A photobook inspired by the song, Fly me to the Moon. This project blends photography, editing and drawing to create space like scenes.",
-            "description": "In this project, I created a photo book inspired by the song, 'Fly Me to the Moon' by Frank Sinatra. I used a combination of photography, editing, and drawing. I photographed outdoor landscapes and a portrait, then used Photoshop to transform these images from earthly places into landscapes from another planet or the moon. I hand-drew planets and craters. This project allowed me to experiment with photo manipulation, photography and drawing to create whimsical scenes.",
+            "subtitle": "Photography and Illustration Inspired by <em>'Fly Me to the Moon'</em>",
+            "abstract": "A photobook inspired by the song, <em>'Fly me to the Moon'</em> by Frank Sinatra. This project blends photography, editing and drawing to create whimsical visuals.",
+            "description": " In this project, I created a photobook inspired by the song <em>'Fly Me to the Moon'</em> by Frank Sinatra. I combined photography, photo editing and illustration to transform outdoor landscapes into scenes from other planets. Using photoshop, I manipulated the images and drew planets, craters and rockets to add a whimsical feel to the images. This project allowed me to experiment with photo editing techniques and blend photography and illustration to create whimsical images.",
             "mainImg": "../img/saturn.png",
             "images":[ 
                 {"src": "./img/fly_me_to_the_moon_1.png", "alt": "Image of a rocket ship landing on the moon. But outside in the grass."},
@@ -22,9 +22,9 @@
             "name": "Spring Short Film",
             "subdomain": "spring_short_film",
             "category": ["animation", "art","drawing"],
-            "subtitle": "Short film about flowers growing in spring",
-            "abstract": "A short animation of springs weather and flowers that grow but are swept away by the wind.",
-            "description": "This short animation is set to cheerful music and the animation matches the beats. The animation takes place in the spring, when the rain begins to fall and lightning starts to flash. Flowers begin to grow, when suddenly they are swept away by the wind. They flowers fall into a flower pot beside a bird. The animation was hand-drawn on top of real photographs. I wanted to blend together a whimsical image with real life. The project allowed me to practice animation and learn more about animating with music.",
+            "subtitle": "Hand-Drawn Animation Blended with Real Photography and Music",
+            "abstract": "A short animation that takes place in the spring. The visuals of the animation sync to the beats of the music. Rain begins to fall and lightning is flashing, flowers begin to grow out of the ground and are suddenly swept away by the wind, landing in a flower pot next to a bird. This project was created using Adobe After Effects.",
+            "description": "This short animation is set to music, with the animation syncing to the beats. This short is set in the spring time, the scene begins with rain falling and lightning flashing. As flowers start to grow, they are suddenly swept away by the wind and land in a flower pot next to a bird. The animation was hand drawn over real photographs, blending whimsical imagery with real life elements. <br><br>This project gave me an opportunity to practice animation and learn about animating with sound. This project also allowed me to gain skills in learning a new program, Adobe After Effects.",
             "mainImg": "../img/mainImgShortFilm.png",
             "images":[ 
                 {"src": "./img/short_film_1.png", "alt": "Fly Me to the Moon main image"},
@@ -34,13 +34,13 @@
             ]
         },
         {
-            "name": "Bar Game",
-            "collaborators": "Ryan Venturi, Nathan Ales",
+            "name": "Beers and Cheers",
+            
             "subdomain": "bar_game",
             "category": ["digital", "game","Interactive"],
-            "subtitle": "Interactive game playing as a bartender creating drinks and earning tips!",
-            "abstract": "The player becomes the bartender and has to correctly choose the correct ingredients to make the drink a costumer ordered.",
-            "description": "I worked with a group to help create the game, <em>Beers and Cheers</em>. This game was created in Python, the object of the game is to select the correct ingredients to make the drink listed on the order pad. Each successful order earns the player money and gets the bartender closer to the end of his shift. <br><br>This project helped me collaborate in a team and learn more about the development of games. I designed the background of the game and designed each ingredient bottle and the cash register along with helping build the code for the game.",
+            "subtitle": "A Collaborative Game Design Project",
+            "abstract": "<em>Beers and Cheers</em> is an interactive game developed in Python where players must select the correct ingredients to match drink orders on a bartender's list. Completing earns the player money and progresses the bartender closer to the end of his shift.",
+            "description": "I worked with a team, including Ryan Venturi and Nathan Ales, to help create the game <em>Beers and Cheers,</em> developed in Python. In this game, the player must select the correct ingredients to make the drinks listed on the order pad. Each successful order earns the player money and gets the bartender closer to the end of his shift. <br><br> Beers and Cheers gave me the opportunity to collaborate in a group and learn more about game development. During this project, I was responsible for designing the game's background, bottles, and cash register, as well as contributing to the code of the game. ",
             "mainImg": "../img/barMainImg.png",
             "images":[ 
                 {"src": "./img/bargame_1.png", "alt": "Image of the bar, background of the game. Ingredients are placed on the shelf."},
@@ -53,9 +53,9 @@
             "name": "Seasonal Brew",
             "subdomain": "coffee_app",
             "category": ["digital", "mobile","app","Interactive"],
-            "subtitle": "App designed for finding the perfect coffee",
-            "abstract": "A mobile app for finding the kind of coffee you should drink that day.",
-            "description": "Seasonal Brew if an app to help coffee lovers find the perfect drink to start thier day! Users take a short quiz, select a season and a type of coffee, and get a personalized coffee recomendation. The app provides instructions to make the coffee and lets you share pictures of your coffee with your friends. Click the coffee mug below a picture to like it, or select the pin to save for later. You can follow your friends on the app and see what kinds of coffees they are drinking. Users can save thier favorite recipes and see the most popular recipes that are trending! ",
+            "subtitle": "An App Design Concept for Coffee Lovers",
+            "abstract": "Seasonal Brew is a coffee recommendation app that is designed to help coffee lovers find their next perfect drink. The app allows users to take a short quiz and receive a personalized coffee recommendation. It provides easy to follow instructions. Users can follow their friends, share photos and save their favorite recipes. ",
+            "description": "Seasonal Brew is an app I designed to help coffee lovers discover their next perfect drink to start their day. Users can take a short quiz, select their preferred season and type of coffee, and receive a personalized coffee recommendation. The app provides simple instructions on how to make the coffee. Users can share photos of their creations and can see what kind of drinks their friends are making and explore the trending recipes. Users can save their favorite recipes and can like others recipes by clicking the coffee mug icon below a post. <br><br> This project allowed me to explore app design by creating a visual concept for Seasonal Brew. I focused on layout, navigation, and visuals, gaining insight into how to design an app and improve the user experience.",
             "mainImg": "../img/coffee_1.png",
             "images":[ 
                 

@@ -111,18 +111,23 @@ body {
 }
 
 #description {
-    padding-right: 7%;
-    padding-left: 7%;
+    color: rgba(0, 0, 0, 0.708);
+    padding-right: 12%;
+    padding-left: 12%;
     font-size: 0.7em;
-    text-align: center;
+    text-align: justify;
+
+    /* text-align: right; */
     line-height: 1.5;
     margin-top: 5%;
-    /* font-family: 'Times New Roman', serif; */
-    /* border: 0.1em solid hotpink; */
-    background-color: lavender;
-    margin-left: 4%;
-    margin-right: 4%;
+    /* width: 100%; */
+
+    
+    margin-left: 7%;
+    margin-right: 7%;
     margin-bottom: 2%;
+    background-color: lavender;
+
    
 
 }
@@ -130,6 +135,7 @@ body {
 .description {
     font-size: 1em;
     padding-left: 2%;
+    /* color: blue; */
 
 }
 

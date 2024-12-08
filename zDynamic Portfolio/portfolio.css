@@ -6,7 +6,9 @@ body {
 #projects{
     display: flex;
     flex-direction: column;
-    margin: 10vh 20vw;
+
+    /* margin: 10vh 20vw; */
+    margin: 10% ;
     
 
 }
@@ -44,6 +46,7 @@ body {
     flex-direction: row;
     margin-top: 4%;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 #buttons button{
@@ -115,7 +118,11 @@ body {
     line-height: 1.5;
     margin-top: 5%;
     /* font-family: 'Times New Roman', serif; */
-    border: 0.1em solid hotpink;
+    /* border: 0.1em solid hotpink; */
+    background-color: lavender;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 2%;
    
 
 }
@@ -130,6 +137,15 @@ body {
     font-size: 1.2em;
     text-align: center;
     
+}
+
+
+
+.movie {
+    text-align: center;
+    font-size: 1.4em;
+    margin-top: 25%;
+    margin-bottom: -2%;
 }
 
 .nav {
@@ -238,3 +254,4 @@ body {
     margin-top: 5%;
     margin-left: 7%;
 }
+

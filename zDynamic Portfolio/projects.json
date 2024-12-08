@@ -3,7 +3,7 @@
         {
             "name": "Fly Me to the Moon",
             "subdomain": "fly_me_to_the_moon",
-            "category": ["art", "photography"],
+            "category": ["art", "photography","drawing","Digital Design"],
             "subtitle": "Space inspired photobook",
             "abstract": "A photobook inspired by the song, Fly me to the Moon. This project blends photography, editing and drawing to create space like scenes.",
             "description": "In this project, I created a photo book inspired by the song, 'Fly Me to the Moon' by Frank Sinatra. I used a combination of photography, editing, and drawing. I photographed outdoor landscapes and a portrait, then used Photoshop to transform these images from earthly places into landscapes from another planet or the moon. I hand-drew planets and craters. This project allowed me to experiment with photo manipulation, photography and drawing to create whimsical scenes.",
@@ -37,7 +37,7 @@
             "name": "Bar Game",
             "collaborators": "Ryan Venturi, Nathan Ales",
             "subdomain": "bar_game",
-            "category": ["digital", "game"],
+            "category": ["digital", "game","Interactive"],
             "subtitle": "Interactive game playing as a bartender creating drinks and earning tips!",
             "abstract": "The player becomes the bartender and has to correctly choose the correct ingredients to make the drink a costumer ordered.",
             "description": "I worked with a group to help create the game, <em>Beers and Cheers</em>. This game was created in Python, the object of the game is to select the correct ingredients to make the drink listed on the order pad. Each successful order earns the player money and gets the bartender closer to the end of his shift. <br><br>This project helped me collaborate in a team and learn more about the development of games. I designed the background of the game and designed each ingredient bottle and the cash register along with helping build the code for the game.",
@@ -52,7 +52,7 @@
         {
             "name": "Seasonal Brew",
             "subdomain": "coffee_app",
-            "category": ["digital", "mobile"],
+            "category": ["digital", "mobile","app","Interactive"],
             "subtitle": "App designed for finding the perfect coffee",
             "abstract": "A mobile app for finding the kind of coffee you should drink that day.",
             "description": "Seasonal Brew if an app to help coffee lovers find the perfect drink to start thier day! Users take a short quiz, select a season and a type of coffee, and get a personalized coffee recomendation. The app provides instructions to make the coffee and lets you share pictures of your coffee with your friends. Click the coffee mug below a picture to like it, or select the pin to save for later. You can follow your friends on the app and see what kinds of coffees they are drinking. Users can save thier favorite recipes and see the most popular recipes that are trending! ",

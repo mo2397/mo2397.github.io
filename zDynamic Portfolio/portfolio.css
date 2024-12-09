@@ -247,7 +247,7 @@ body {
 .stayInTouch {
     font-size: 3em;
     margin-top: 3.5%;
-    margin-right: 55%; 
+    /* margin-right: 55%;  */
 }
 
 
@@ -256,7 +256,7 @@ body {
 
     font-size: 1.2em;
 
-    margin-top: 5%; 
-    margin-right: 53%; 
+    margin-top: 8%; 
+    /* margin-left: 15px;  */
     /* background-color: aquamarine; */
 }

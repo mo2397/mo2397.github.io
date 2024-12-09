@@ -67,7 +67,7 @@ function buildPage(project){
 
     // ADDING DESCRIPTION BELOW SLIDESHOW
     console.log(project.description);
-    document.getElementById("description").innerHTML += `<h1>${project.description}</h1>`;
+    document.getElementById("description").innerHTML += `${project.description}`;
     
 }
 

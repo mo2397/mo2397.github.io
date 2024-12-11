@@ -60,10 +60,7 @@ function buildPage(project){
     }
 
 
-    // const newImage = document.createElement('img');
-    // newImage.setAttribute('src', xxx);
-    // newImage.setAttribute('alt', xxx);
-    // thumbBar.appendChild(newImage);
+
 
     // ADDING DESCRIPTION BELOW SLIDESHOW
     console.log(project.description);
